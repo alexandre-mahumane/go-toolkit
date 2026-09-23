@@ -1,4 +1,4 @@
-package colletions
+package collections
 
 
 
